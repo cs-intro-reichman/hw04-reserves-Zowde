@@ -1,4 +1,6 @@
-  
+public class ArrayOps {
+   
+    
     public static int findMissingInt (int [] array) {
         // Write your code here:
         int count=0;//count the times n appear in the array
@@ -129,3 +131,6 @@
     }
        
     }
+    
+
+}
